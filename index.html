@@ -1,20 +1,47 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
+
 <head>
-<style>
-body {
-  background-image: url('IMG_20200301_073219.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-  background-size: 100% 100%;
-}
-</style>
+    <meta name="author" content="Ankita Chaudhari">
+    <meta name="description" content="This is personal site created for publishing content.
+    The site contains resume and medium article of Ankita chaudhari. It also show the inspiring quotes">
+    <meta name="keywords"
+        content="Ankita Chaudhari">
+
+    <meta property="og:image" content="IMG_20190906_135556_2.jpg">
+    <meta property="og:description" content="This is personal site created for publishing content.
+    The site contains resume and medium article of Ankita chaudhari. It also show the inspiring quotes.">
+    <meta property="og:title" content="Ankita Chaudhari">
+
+    <title tag="Ankita Chaudhari">Ankita Chaudhari</title>
+    <script src="myScript.js"></script>
+    <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-<h1>Still Under Development .....</h1>
+    <div>
+        <div class="container">
+            <h1>Ankita Chaudhari</h1>
+            <img tag="Ankita Chaudhari" src="IMG_20190906_135556_2.jpg" alt="Avatar" style="width:200px">
 
-<a href="https://medium.com/@ankita.v.chaudhari">Medium</a>
+            <div class="social">
+                <a tag="Ankita Chaudhari resume" href="Resume.pdf">Resume</a>
+                <a tag="Ankita Chaudhari medium post" href="https://medium.com/@ankita.v.chaudhari">Medium</a>
+            </div>
 
+        </div>
+
+        <div class="container" id="quotesButton" display="block">
+            <div class="buttonCenter">
+                <input type="button" onclick="displayQuotes()" class="button" value="Inspire Me">
+            </div>
+        </div>
+
+        <div class="container" id="quotesDiv" visibility: hidden>
+            <p id="quote"></p>
+            <p id="author"></p>
+        </div>
+    </div>
 </body>
+
 </html>
