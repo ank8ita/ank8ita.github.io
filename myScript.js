@@ -31,6 +31,14 @@ const quotes = [
     "author": "Harry Potter and the Sorcerer’s Stone book"
   },
   {
+    "quote": "Life is getting up an hour early to live an hour more",
+    "author": "Unknown"
+  },
+  {
+    "quote": "The more you sweat in peace, the less you bleed in war",
+    "author": "Norman Schwarzkopf"
+  },
+  {
     "quote": "The way to get started is to quit talking and begin doing",
     "author": "Walt Disney"
   },
@@ -73,6 +81,22 @@ const quotes = [
   }, {
     "quote": "Life is like riding a bicycle. To keep your balance you must keep moving",
     "author": "Albert Einstein"
+  }, {
+    "quote": "Life is getting up an hour early to live an hour more",
+    "author": "Unknown"
+  },
+  {
+    "quote": "In a world full of Umbridge be a Fred and George",
+    "author": "Unknown"
+  },
+  {
+    "quote": "I’m not in this world to live up to your expectations and you’re not in this world to live up to mine",
+    "author": "Bruce Lee"
+  },
+  {
+    "quote": "Don’t wish it was easier, wish you were better. Don’t wish for less problem, wish for more skills. Don’t wish for less challenge, wish for more wisdom.",
+    "author": "Jim Rohn"
   }
+
 
 ];
