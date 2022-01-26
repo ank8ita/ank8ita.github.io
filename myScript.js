@@ -28,7 +28,7 @@ const quotes = [
   },
   {
     "quote": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends",
-    "author": "Harry Potter and the Sorcerer’s Stone book"
+    "author": "Harry Potter and the Sorcerer's Stone book"
   },
   {
     "quote": "Life is getting up an hour early to live an hour more",
@@ -72,11 +72,11 @@ const quotes = [
     "quote": "Never let success get to your head and never let failure get to your heart",
     "author": "Drake"
   }, {
-    "quote": "If you don’t risk anything, you risk even more",
+    "quote": "If you don't risk anything, you risk even more",
     "author": "Erica Jong"
   },
   {
-    "quote": "If it makes you nervous, you’re doing it right",
+    "quote": "If it makes you nervous, you're doing it right",
     "author": "Childish Gambino"
   }, {
     "quote": "Life is like riding a bicycle. To keep your balance you must keep moving",
@@ -90,11 +90,11 @@ const quotes = [
     "author": "Unknown"
   },
   {
-    "quote": "I’m not in this world to live up to your expectations and you’re not in this world to live up to mine",
+    "quote": "I'm not in this world to live up to your expectations and you're not in this world to live up to mine",
     "author": "Bruce Lee"
   },
   {
-    "quote": "Don’t wish it was easier, wish you were better. Don’t wish for less problem, wish for more skills. Don’t wish for less challenge, wish for more wisdom.",
+    "quote": "Don't wish it was easier, wish you were better. Don't wish for less problem, wish for more skills. Don't wish for less challenge, wish for more wisdom.",
     "author": "Jim Rohn"
   }
 
